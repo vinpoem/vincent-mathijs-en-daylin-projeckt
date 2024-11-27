@@ -1,1 +1,2 @@
-print(Hallo ik ben Daylin)
+-print("Hallo ik ben Daylin")
+-print("ik ben vinpoem")
